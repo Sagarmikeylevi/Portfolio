@@ -39,8 +39,16 @@ html {
 
 body {
   font-family: "General Sans", sans-serif;
+  padding: 0.5rem;
+}
+
+.wrapper {
   background-color: var(--clr-dark);
   color: var(--clr-light);
+  border-radius: 5px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 2rem;
 }
 
 img,

@@ -23,6 +23,10 @@
   position: relative;
 }
 
+.work__img-wrapper img {
+  border-radius: 10px;
+}
+
 .work__img-wrapper::after {
   content: "";
   background-color: rgba(79, 70, 229, 0.4);
@@ -32,6 +36,7 @@
   top: 0;
   left: 0;
   z-index: 1;
+  border-radius: 10px;
   transition: backround-color 0.3s;
 }
 
@@ -53,6 +58,7 @@
   font-size: var(--size-sm);
   color: var(--clr-slate400);
   margin-bottom: 1rem;
+  letter-spacing: 1px;
 }
 
 .work__project-btn {

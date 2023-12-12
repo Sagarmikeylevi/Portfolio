@@ -122,12 +122,13 @@
 
   .about__img {
     width: 32rem;
+    border-radius: 10px;
   }
 
-  .about__img img {
+  /* .about__img img {
     height: 20rem;
     width: 100%;
-  }
+  } */
 }
 
 /* xl */

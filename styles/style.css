@@ -4,7 +4,7 @@
   --clr-slate400: #94a3b8;
   --clr-slate600: #475569;
   --clr-slate800: #1e293b;
-  --clr-rose: #e11d48;
+  --clr-rose: #22c55e;
   --clr-indigo: #4f46e5;
 
   /* rose rgb(225, 29, 72) */
@@ -84,4 +84,6 @@ a {
 
 strong {
   color: var(--clr-indigo);
+  cursor: pointer;
+  text-decoration: underline;
 }

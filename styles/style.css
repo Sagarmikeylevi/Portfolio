@@ -84,6 +84,4 @@ a {
 
 strong {
   color: var(--clr-indigo);
-  cursor: pointer;
-  text-decoration: underline;
 }

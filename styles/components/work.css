@@ -240,7 +240,7 @@
   }
 
   .work__project-description2 {
-    font-size: var(--size-lg);
+    font-size: var(--size-base);
   }
 
   .work__project-btn {
